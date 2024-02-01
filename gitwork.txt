@@ -1,0 +1,4 @@
+git commit -m "" for msg
+git add --a
+shift ins paste
+cntrl ins copy
